@@ -1,0 +1,9 @@
+D:\Projects\.NetCore\AspNetCore5RabbitMQ\AspNetCore5RabbitMQ.Common\bin\Debug\netcoreapp3.1\AspNetCore5RabbitMQ.Common.deps.json
+D:\Projects\.NetCore\AspNetCore5RabbitMQ\AspNetCore5RabbitMQ.Common\bin\Debug\netcoreapp3.1\AspNetCore5RabbitMQ.Common.dll
+D:\Projects\.NetCore\AspNetCore5RabbitMQ\AspNetCore5RabbitMQ.Common\bin\Debug\netcoreapp3.1\AspNetCore5RabbitMQ.Common.pdb
+D:\Projects\.NetCore\AspNetCore5RabbitMQ\AspNetCore5RabbitMQ.Common\obj\Debug\netcoreapp3.1\AspNetCore5RabbitMQ.Common.csprojAssemblyReference.cache
+D:\Projects\.NetCore\AspNetCore5RabbitMQ\AspNetCore5RabbitMQ.Common\obj\Debug\netcoreapp3.1\AspNetCore5RabbitMQ.Common.AssemblyInfoInputs.cache
+D:\Projects\.NetCore\AspNetCore5RabbitMQ\AspNetCore5RabbitMQ.Common\obj\Debug\netcoreapp3.1\AspNetCore5RabbitMQ.Common.AssemblyInfo.cs
+D:\Projects\.NetCore\AspNetCore5RabbitMQ\AspNetCore5RabbitMQ.Common\obj\Debug\netcoreapp3.1\AspNetCore5RabbitMQ.Common.csproj.CoreCompileInputs.cache
+D:\Projects\.NetCore\AspNetCore5RabbitMQ\AspNetCore5RabbitMQ.Common\obj\Debug\netcoreapp3.1\AspNetCore5RabbitMQ.Common.dll
+D:\Projects\.NetCore\AspNetCore5RabbitMQ\AspNetCore5RabbitMQ.Common\obj\Debug\netcoreapp3.1\AspNetCore5RabbitMQ.Common.pdb
